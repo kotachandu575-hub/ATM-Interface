@@ -1,0 +1,438 @@
+===== ATM SYSTEM =====
+
+Enter User ID: admin
+Enter PIN: 1234
+
+Login Successful!
+
+===== ATM MENU =====
+1. Transaction History
+2. Withdraw
+3. Deposit
+4. Transfer
+5. Check Balance
+6. Quit
+
+Choose Option: 5
+
+Available Balance: ₹10000.0
+
+Deposit Output
+===== ATM MENU =====
+1. Transaction History
+2. Withdraw
+3. Deposit
+4. Transfer
+5. Check Balance
+6. Quit
+
+Choose Option: 3
+
+Enter Amount: ₹5000
+
+Amount Deposited Successfully!
+
+Withdraw Output
+===== ATM MENU =====
+1. Transaction History
+2. Withdraw
+3. Deposit
+4. Transfer
+5. Check Balance
+6. Quit
+
+Choose Option: 2
+
+Enter Amount: ₹2000
+
+Please collect your cash.
+
+Transfer Output
+===== ATM MENU =====
+1. Transaction History
+2. Withdraw
+3. Deposit
+4. Transfer
+5. Check Balance
+6. Quit
+
+Choose Option: 4
+
+Enter Receiver Name: Rahul
+Enter Amount: ₹1500
+
+Transfer Successful!
+
+Transaction History:
+
+Deposited: ₹5000.0
+Withdrawn: ₹2000.0
+Transferred ₹1500.0 to Rahul
+
+Create a separate README.md for each project on GitHub.
+
+1. ATM Interface – README.md
+ATM Interface
+ATM Interface
+Overview
+
+The ATM Interface is a console-based Java application that simulates basic banking operations. Users can securely log in using a User ID and PIN and perform various ATM transactions.
+
+Features
+User Authentication
+Deposit Money
+Withdraw Money
+Transfer Funds
+Transaction History
+Balance Inquiry
+Logout Functionality
+Technologies Used
+Java
+Object-Oriented Programming (OOP)
+ArrayList
+Scanner Class
+How to Run
+Clone the repository.
+Open the project in IntelliJ IDEA or any Java IDE.
+Compile and run ATMInterface.java.
+Login using the configured credentials.
+Learning Outcomes
+Java Programming Fundamentals
+OOP Concepts
+User Authentication
+Transaction Management
+Menu-Driven Applications
+Author
+
+Bouthya Battu
+
+2. Online Examination System – README.md
+Online Examination System
+Online Examination System
+Overview
+
+The Online Examination System is a Java-based console application designed to conduct multiple-choice examinations. It provides secure login functionality, profile management, password updates, timer-based examinations, automatic submission, and result generation.
+
+Features
+User Login Authentication
+Update Profile
+Change Password
+Multiple Choice Questions (MCQs)
+Timer-Based Examination
+Auto Submission
+Result Calculation
+Logout Functionality
+Technologies Used
+Java
+Object-Oriented Programming (OOP)
+Arrays
+Scanner Class
+Timer Logic
+How to Run
+Clone the repository.
+Open the project in IntelliJ IDEA.
+Compile and run OnlineExaminationSystem.java.
+Login using valid credentials and start the examination.
+Learning Outcomes
+Authentication Systems
+Java Collections and Arrays
+Timer Management
+Console-Based Application Development
+Examination Workflow Design
+Author
+
+Bouthya Battu
+
+3. Digital Library Management System – README.md
+Digital Library Management System
+Digital Library Management System
+Overview
+
+The Digital Library Management System is a Java-based application that helps manage books, users, and library operations efficiently. The system enables users to add, view, issue, and return books through a simple console interface.
+
+Features
+Add Books
+View Available Books
+Search Books
+Issue Books
+Return Books
+Manage Library Records
+User-Friendly Menu System
+Technologies Used
+Java
+Object-Oriented Programming (OOP)
+Collections Framework
+Scanner Class
+How to Run
+Clone the repository.
+Open the project in IntelliJ IDEA.
+Compile and run the main Java file.
+Follow the menu options to manage books and library operations.
+Learning Outcomes
+Library Record Management
+OOP Design Principles
+Data Handling in Java
+Menu-Driven Application Development
+Author
+
+Bouthya Battu
+
+These README files are ready to copy into each project's README.md on GitHub.
+
+NumberGuessingGame
+
+
+For your Number Guessing Game project, use this README.md:
+
+Number Guessing Game
+Number Guessing Game
+Overview
+
+The Number Guessing Game is a simple Java console-based application where the computer generates a random number, and the player attempts to guess it within a limited number of attempts. The game provides hints indicating whether the guessed number is too high or too low until the correct number is found.
+
+Features
+Random Number Generation
+User Input Validation
+Limited Guess Attempts
+Hint System (Higher/Lower)
+Score Tracking
+Multiple Rounds Support
+Console-Based Interface
+Technologies Used
+Java
+Object-Oriented Programming (OOP)
+Random Class
+Scanner Class
+How to Run
+Clone the repository.
+Open the project in IntelliJ IDEA or any Java IDE.
+Compile and run NumberGuessingGame.java.
+Enter your guesses and follow the hints to find the correct number.
+Game Rules
+The system generates a random number.
+The player attempts to guess the number.
+The system provides feedback whether the guess is too high or too low.
+The game continues until the correct number is guessed or attempts are exhausted.
+The final score is displayed at the end of the game.
+Learning Outcomes
+Java Programming Fundamentals
+Random Number Generation
+Conditional Statements and Loops
+User Input Handling
+Game Logic Development
+Author
+
+Bouthya Battu
+
+GitHub Repository Description (short):
+
+A Java-based console application where players guess a randomly generated number with hints and score tracking functionality.
+
+Online Examination System output
+
+You can use the following sample output in your report, README, or screen recording explanation.
+
+===== ONLINE EXAMINATION SYSTEM =====
+
+Enter Username: admin
+Enter Password: admin123
+
+Login Successful!
+
+===== MENU =====
+1. Start Exam
+2. Update Profile
+3. Change Password
+4. Logout
+
+Enter Choice: 1
+
+Exam Started!
+You have 60 seconds.
+
+1. Java is a?
+A. Programming Language
+B. Browser
+C. OS
+D. Database
+
+Answer: A
+
+2. Which company developed Java?
+A. Google
+B. Microsoft
+C. Sun Microsystems
+D. Apple
+
+Answer: C
+
+3. Java is ____ language?
+A. Low Level
+B. High Level
+C. Machine
+D. Assembly
+
+Answer: B
+
+4. JVM stands for?
+A. Java Virtual Machine
+B. Java Variable Method
+C. Joint VM
+D. None
+
+Answer: A
+
+5. Which keyword is used for inheritance?
+A. extends
+B. implement
+C. inherit
+D. super
+
+Answer: A
+
+===== RESULT =====
+Total Questions: 5
+Correct Answers: 5
+Score: 5/5
+Update Profile Output
+===== MENU =====
+1. Start Exam
+2. Update Profile
+3. Change Password
+4. Logout
+
+Enter Choice: 2
+
+Enter New Username: bouthya
+
+Profile Updated Successfully!
+Change Password Output
+===== MENU =====
+1. Start Exam
+2. Update Profile
+3. Change Password
+4. Logout
+
+Enter Choice: 3
+
+Enter New Password: newpass123
+
+Password Changed Successfully!
+Logout Output
+===== MENU =====
+1. Start Exam
+2. Update Profile
+3. Change Password
+4. Logout
+
+Enter Choice: 4
+
+Logged Out Successfully!
+Thank You!
+If Timer Expires
+Exam Started!
+You have 60 seconds.
+
+Time Up!
+Exam Auto Submitted.
+
+===== RESULT =====
+Total Questions: 5
+Correct Answers: 3
+Score: 3/5
+
+For your screen recording, run through:
+
+Login
+Update Profile
+Change Password
+Start Exam and answer questions
+Show Result
+Logout
+
+That demonstrates all required functionalities.
+
+ATM Interface output
+
+Here is a sample output for the ATM Interface project:
+
+===== ATM SYSTEM =====
+
+Enter User ID: admin
+Enter PIN: 1234
+
+Login Successful!
+
+===== ATM MENU =====
+1. Transaction History
+2. Withdraw
+3. Deposit
+4. Transfer
+5. Check Balance
+6. Quit
+
+Choose Option: 5
+
+Available Balance: ₹10000.0
+Deposit Output
+===== ATM MENU =====
+1. Transaction History
+2. Withdraw
+3. Deposit
+4. Transfer
+5. Check Balance
+6. Quit
+
+Choose Option: 3
+
+Enter Amount: ₹5000
+
+Amount Deposited Successfully!
+Withdraw Output
+===== ATM MENU =====
+1. Transaction History
+2. Withdraw
+3. Deposit
+4. Transfer
+5. Check Balance
+6. Quit
+
+Choose Option: 2
+
+Enter Amount: ₹2000
+
+Please collect your cash.
+Transfer Output
+===== ATM MENU =====
+1. Transaction History
+2. Withdraw
+3. Deposit
+4. Transfer
+5. Check Balance
+6. Quit
+
+Choose Option: 4
+
+Enter Receiver Name: Rahul
+Enter Amount: ₹1500
+
+Transfer Successful!
+Transaction History Output
+Transaction History:
+
+Deposited: ₹5000.0
+Withdrawn: ₹2000.0
+Transferred ₹1500.0 to Rahul
+Updated Balance Output
+
+===== ATM MENU =====
+1. Transaction History
+2. Withdraw
+3. Deposit
+4. Transfer
+5. Check Balance
+6. Quit
+
+Choose Option: 5
+
+Available Balance: ₹11500.0
